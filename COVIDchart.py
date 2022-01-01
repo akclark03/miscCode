@@ -1,3 +1,5 @@
+# Here I was learning how to use the python package Beautiful soup to parse data from a website into a table.
+
 from bs4 import BeautifulSoup
 import requests
 import csv
