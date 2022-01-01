@@ -6,6 +6,6 @@ I taught myself python through the use of multiple free resources online
 * [Practice Python](https://www.practicepython.org/)
 * [Project Euler](https://projecteuler.net/archives)
 * [The Python Challenge](http://www.pythonchallenge.com/)
-* [The Cryptopals Cyrpto Challenge](https://cryptopals.com/)
+* [The Cryptopals Crypto Challenge](https://cryptopals.com/)
 
 I have also developed proficiency in Java through the completion of CSC 116 (Intro to Computing - Java) at North Carolina State University
