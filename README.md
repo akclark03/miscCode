@@ -1,4 +1,4 @@
-## miscCode
+### miscCode
 Here is some code that I wrote actively learning to program
 ---
 
