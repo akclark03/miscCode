@@ -1,5 +1,6 @@
 # miscCode
 Here is some code that I wrote actively learning to program
+---
 
 I taught myself python through the use of multiple free resources online 
 * [Dataquest.io](https://app.dataquest.io/)
