@@ -1,6 +1,3 @@
-# Takes a string input and trys to identify a ceaser chipher with user input 
-# manually iterating through the loop until the string is readable
-
 string = '''Dl'yl uv zayhunlyz av svcl
 Fvb ruvd aol ybslz huk zv kv P
 H mbss jvttpatlua'z doha P't aopurpun vm

@@ -1,6 +1,3 @@
-# This program uses the probibility of numbers being co-prime to calculate the number Pi.
-# https://www.think-maths.co.uk/downloads/pi-approximation-using-factors-activities
-
 import random
 import math
 
